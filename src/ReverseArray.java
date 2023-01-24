@@ -24,7 +24,7 @@ public class ReverseArray {
          //myWord[5]='n';
          //myWord[6]='t';
          //some comments on 24 Jan.
-        
+        // 
         
          //for(int i=0; i<myWord.length; i++)
          //{
